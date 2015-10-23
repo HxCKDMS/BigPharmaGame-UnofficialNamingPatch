@@ -206,7 +206,7 @@
 		"Syringe"
 	],
 	
-	// CHEMICAL NAMES - These don't need to be translated
+
 	"chemicalStarts":[
 		"Adamant",
 		"Bot",
@@ -239,7 +239,7 @@
 		"Quen",
 		"Xen"
 	],
-	// These don't need to be translated
+	
 	"chemicalEnds":[
 		"ene", // Alkenes
 		"ine",
