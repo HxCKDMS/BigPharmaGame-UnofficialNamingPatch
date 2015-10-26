@@ -19,7 +19,7 @@
 		"Foaming",
 		"Hydroxylated",
 		"Spotted",
-		"Reformed",
+		"Reprocessed",
 		"Alkaline",
 		"Shimmering",
 		"Sour",
@@ -244,14 +244,14 @@
 		"ene", // Alkenes
 		"ine",
 		"ite",
-		"aphos",
+		"aphos", // Organophosphates
 		"erene",
 		"alene",
-		"iphos",
-		"amine",
-		"amycin",
-		"omycin",
-		"amide",
+		"iphos", // Organophosphates
+		"amine", // Amines
+		"amycin", //Bacterial products
+		"omycin",  //Bacterial products
+		"amide", // Amides
 		"inon",
 		"on",
 		"onite",
@@ -262,8 +262,8 @@
 		"itox",
 		"etox",
 		"itox",
-		"alite",
-		"alike",
+		"din", // Most proteins end with these - I.E Phalloidin, Ubiquitin
+		"tin", // Most proteins end with these - I.E Phalloidin, Ubiquitin
 		"yne", // Alkynes
 		"acite",
 		"etin",
