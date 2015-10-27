@@ -72,7 +72,7 @@
 		"Zurite",
 		"Amyliso",
 		"Buriam",
-		"Cangitoxin", // Sea anemone toxin
+		"Cangitoxin", // Sea anemone shit
 		"Trilicate",
 		"Ferrixyanide",
 		"Hypoacryolate",
@@ -92,7 +92,7 @@
 	
 	"crystals":[
 		"Crystals",
-		"Concentration",
+		"Concentrate",
 		"Quartz"
 	],
 	
@@ -100,11 +100,10 @@
 		"Juice",
 		"Sap",
 		"Solution",
-		"Oil",
 		"Liquid",
 		"Extract",
 		"Distillate",
-		"Concentration",
+		"Concentrate",
 		"Essence",
 		"Tincture",
 		"Secretion",
@@ -118,8 +117,6 @@
 		"Oil",
 		"Liquid",
 		"Extract",
-		"Distillate",
-		"Concentration",
 		"Essence",
 		"Tincture",
 		"Secretion",
