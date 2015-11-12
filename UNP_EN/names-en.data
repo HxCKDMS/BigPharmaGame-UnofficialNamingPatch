@@ -196,7 +196,8 @@
 	],
 	
 	"sachets":[
-		"Sachet"
+		"Sachet",
+		"Packet"
 	],
 	
 	"syringes":[
