@@ -52,13 +52,13 @@
 		"Mabari Bark",
 		"Hycalartis",
 		"Xilica",
-		"Terphenate", // A gibberish version of "Terphenyl"
+		"Terphenate",
 		"Trey Fly",
 		"Yambutan",
 		"Jangostein",
 		"Pangsatin",
 		"Jackear",
-		"Apitoxin", // Bee venom
+		"Apitoxin",
 		"Cloud Fruit",
 		"Haloxin", 
 		"Bantodae",
@@ -128,7 +128,6 @@
 		"Gas",
 		"Vapour",
 		"Essence",
-		"Air",
 		"Extract",
 		"Fumes",
 		"Smoke",
@@ -161,9 +160,7 @@
 		"Pellets",
 		"Granules",
 		"Grains",
-		"Precipitate",
-		"Chunks",
-		"Pieces"
+		"Precipitate"
 	],
 	
 	"rbflask":[
