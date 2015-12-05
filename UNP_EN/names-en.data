@@ -198,7 +198,9 @@
 	],
 	
 	"syringes":[
-		"Syringe"
+		"Syringe",
+		"Injection",
+		"For Injection"
 	],
 	
 
@@ -215,7 +217,7 @@
 		"Ex",
 		"Fruc",
 		"Grat",
-		"Hod",
+		"Myx",
 		"Ir",
 		"Jru",
 		"Ap",
