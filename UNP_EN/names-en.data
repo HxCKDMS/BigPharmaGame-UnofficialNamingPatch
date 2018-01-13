@@ -30,7 +30,7 @@
 		"Anhydrous",
 		"African",
 		"Australian",
-		"Ethylated",
+		"Ethoxylated",
 		"Polymerised",
 		"Hydrolysed",
 		"Spiny",
@@ -73,7 +73,7 @@
 		"Amyliso",
 		"Buriam",
 		"Cangitoxin", 
-		"Trilicate",
+		"Zoanthid",
 		"Ferroxynide",
 		"Hypoacryolate",
 		"Veritas",
@@ -93,7 +93,7 @@
 	"crystals":[
 		"Crystals",
 		"Concentrate",
-		"Quartz"
+		"Glass"
 	],
 	
 	"solutions":[
@@ -113,7 +113,6 @@
 	"oils":[
 		"Juice",
 		"Sap",
-		"Solution",
 		"Oil",
 		"Liquid",
 		"Extract",
