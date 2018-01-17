@@ -50,7 +50,7 @@
 		"Triepoxy",
 		"Knotgrass",
 		"Hycalartis",
-		"Xilica",
+		"Cyphastrea",
 		"Terphenate",
 		"Trey Fly",
 		"Yambutan",
@@ -105,9 +105,7 @@
 		"Distillate",
 		"Concentrate",
 		"Essence",
-		"Tincture",
-		"Secretion",
-		"Discharge"
+		"Tincture"
 	],
 	
 	"oils":[
